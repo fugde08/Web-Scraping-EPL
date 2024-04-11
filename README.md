@@ -1,1 +1,1 @@
-This project scrapes the web for necessary data on the EPL match results and then load them into pandas as a cleaned table ready for further machine learning. 
+This project was created in Jupyter and it scrapes the web for EPL match results and then loads them into pandas as a cleaned table ready for further machine learning. 
